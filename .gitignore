@@ -1,3 +1,5 @@
 /.vs/
 /gn-cache/bin/
 /gn-cache/obj/
+/gn-cache.Application/bin/
+/gn-cache.Application/obj/
