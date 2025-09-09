@@ -3,3 +3,7 @@
 /gn-cache/obj/
 /gn-cache.Application/bin/
 /gn-cache.Application/obj/
+/gn-cache.Domain/bin/
+/gn-cache.Domain/obj/
+/gn-cache.Infrastructure/obj/
+/gn-cache.Infrastructure/bin/
